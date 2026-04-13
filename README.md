@@ -2,9 +2,6 @@
 
 This is a ready-to-run Apache Airflow + Docker environment designed for classroom use. Students can use this to run Airflow DAGs that connect to datasources and process data pipelines.
 
-## Walkthrough Video
-[Watch: Starter DAG Walkthrough](https://video.byui.edu/media/t/1_zx5alvpi)
-
 ## Before You Start
 1. Click `Use this template` and save as your own repo
 2. Clone your repo, I prefer the open in GitHub Desktop method
