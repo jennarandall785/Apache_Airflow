@@ -11,7 +11,6 @@ This is a ready-to-run Apache Airflow + Docker environment designed for classroo
 1. Make sure you have Docker installed on your machine. You can download it from the official Docker website. Here is the link: https://docs.docker.com/get-docker/
 
 ## Setup your .env file
-[Watch: Student .env Walkthrough](https://video.byui.edu/media/t/1_44saehlm)
 1. Edit the `editme.env` by renaming it to just `.env`
 
 
