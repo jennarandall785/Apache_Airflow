@@ -43,7 +43,7 @@ def starter_dag_elt():
         This step can be enabled/disabled via the `ON_OFF_SNOWFLAKE_LOAD_ENABLED` switch.
     """
 
-    @task(retry=3, retry_delay=timedelta(seconds=10))
+    @task(retries=3, retry_delay=timedelta(seconds=10))
     def extract_activity():
         """
         Fetches a random activity from the Bored API (community replacement).

@@ -1,4 +1,5 @@
 pymongo
+finnhub-python
 sshtunnel
 yfinance
 pandas
